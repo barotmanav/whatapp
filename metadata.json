@@ -1,0 +1,6 @@
+{
+  "name": "Vendor WhatsApp Automation Platform",
+  "description": "An enterprise platform to automate, manage, and audit personalized WhatsApp communication campaigns with vendors using Excel business data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
